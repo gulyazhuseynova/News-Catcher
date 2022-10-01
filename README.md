@@ -1,4 +1,4 @@
-# News-Catcher - App for catching latest news.
+# News-Catcher - App for catching latest news
 
 Saving news for later review are available.
 English and Russian languages are supported. 
